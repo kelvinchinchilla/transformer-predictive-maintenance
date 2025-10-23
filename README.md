@@ -24,6 +24,7 @@ This project demonstrates an end-to-end workflow for analyzing electrical transf
 
 ---
 
+
 ## 3. Exploratory Data Analysis (EDA) & Visualization
 
 * **Tools:** Matplotlib, Pandas
@@ -32,9 +33,7 @@ This project demonstrates an end-to-end workflow for analyzing electrical transf
     * Analysis of Power Factor (`PFL1`) indicated generally efficient operation (PF close to 1.0) during high load periods but potentially unreliable readings during near-zero power flow.
     * Identified a specific period (late Feb/early Mar 2020) with a noticeable dip in Power Factor, prompting further investigation.
 
-
-    ![Power vs Power Factor Plot](power_vrs_power_factor_plot.png)
-    
+![Power vs Power Factor Plot](power_vrs_power_factor_plot.png)
 
 ---
 
