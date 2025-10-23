@@ -34,7 +34,7 @@ This project demonstrates an end-to-end workflow for analyzing electrical transf
 
 
     ![Power vs Power Factor Plot](power_vrs_power_factor_plot.png)
-    *(**Instruction:** Replace `YOUR_GRAPH_FILENAME.png` with the actual name of your anomaly detection or dual-axis graph file you uploaded to the repository)*
+    
 
 ---
 
